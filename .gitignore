@@ -1,0 +1,11 @@
+.DS_Store
+.nyc_output
+
+node_modules
+*.env
+npm-debug.log
+wip/
+release
+coverage
+dist
+*.crt
